@@ -1,0 +1,2 @@
+¿Qué hace el sistema?
+El sistema resuelve dos problemas concretos. El primero es gestionar un inventario de vehículos (Autos, Vans y Camiones) almacenados en un array de objetos, con operaciones para agregar vehículos, buscarlos por placa y ordenarlos por autonomía usando el algoritmo de burbuja. El segundo es construir contratos de alquiler paso a paso, donde cada contrato puede incluir accesorios opcionales como GPS, seguro o cargador portátil, y aplica automáticamente un descuento del 15% cuando la duración supera los 30 días.
